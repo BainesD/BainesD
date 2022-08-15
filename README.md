@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Baines Deal and I am an early career Full-Stack Software Developer. I love learning new skills and expanding my knowledge of everything life has to offer.
 <!--
 **BainesD/BainesD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BainesD)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Visitor Count
+<img src="https://profile-counter.glitch.me/BainesD/count.svg" />
+
+### Reach me at
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/baines-deal/)
