@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ### CodeWars
 
-![image] (https://www.codewars.com/users/BainesD/badges/large)
-Dark Badge (small)
+![image](https://www.codewars.com/users/BainesD/badges/large)
 
 ### Reach me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/baines-deal/)
