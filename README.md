@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BainesD)](https://github.com/anuraghazra/github-readme-stats)
 
+### CodeWars
+
+![image](https://www.codewars.com/users/BainesD/badges/large)
+
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BainesD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/BainesD/count.svg" />
-
-### CodeWars
-
-![image](https://www.codewars.com/users/BainesD/badges/large)
 
 ### Reach me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/baines-deal/)
