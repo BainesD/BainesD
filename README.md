@@ -24,5 +24,10 @@ Here are some ideas to get you started:
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/BainesD/count.svg" />
 
+### CodeWars
+
+![image] (https://www.codewars.com/users/BainesD/badges/large)
+Dark Badge (small)
+
 ### Reach me at
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/baines-deal/)
