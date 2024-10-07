@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/BainesD/count.svg" />
 
 ### Reach me at
-[![Linkedin]((https://i.sstatic.net/gVE0j.png)) LinkedIn](https://www.linkedin.com/in/baines-deal/)
+[LinkedIn](https://www.linkedin.com/in/baines-deal/)
